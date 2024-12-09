@@ -46,4 +46,4 @@ Este projeto implementa uma simulação do algoritmo de sincronização de reló
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio```
 
-2.Execute o arquivo run.py
+2.Execute o arquivo: - **run.py**
